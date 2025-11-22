@@ -1,0 +1,7 @@
+{
+  "project_name": "Proyecto Geo Research",
+  "project_slug": "geo_research_project",
+  "author_name": "Tu Nombre",
+  "description": "Template para proyectos de investigación geoespacial.",
+  "python_version": "3.11"
+}
